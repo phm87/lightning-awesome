@@ -17,6 +17,8 @@ List of ressources for Bitcoin Lightning Network on testnet
   
 ### Bitcoin Lightning Network testnet:
 
+- Tuto en français: https://journalducoin.com/bitcoin/bitcoin-installer-lightning-network/
+
 - LN testnet explorers:
   - https://1ml.com/testnet
   - https://raito.systemb.co/
